@@ -1,4 +1,4 @@
-package com.example.MyPhotos.controllers;
+package com.example.MyPhotos.controllers.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
